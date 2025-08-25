@@ -1,0 +1,5 @@
+train: ~/yolov5/data/chess/images/train
+val: ~/yolov5/data/chess/images/val
+
+nc: 1
+names: ["pawn"]
