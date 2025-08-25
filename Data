@@ -1,9 +1,0 @@
-# Chess dataset configuration for YOLOv5
-train: data/chess/images/train
-val: data/chess/images/val
-
-# Number of classes
-nc: 1
-
-# Class names
-names: ['pawn']
